@@ -1,0 +1,39 @@
+body {
+	background-image: url("../image/fondo.png");
+	font-family: Helvetica, Arial, Sans Serif;
+	font-size: 0.7em;
+}
+
+#user {
+	margin-top: 35px;
+	margin-left: 740px;
+	height: 22px;
+	width: 150px;
+	position: absolute;
+}
+
+#pass {
+	margin-top: 35px;
+	margin-left: 910px;
+	height: 22px;
+	width: 150px;
+	position: absolute;
+}
+
+#capturar {
+	margin-top: 35px;
+	margin-left: 1074px;
+	height: 22px;
+	width: 90px;
+	color: white;
+	background-color: #3b5998;
+	border: none;
+	border: 1px solid darkblue;
+	border-radius: 3px;
+	position: absolute;
+}
+
+#capturar:hover {
+	background-color: #2f477a;
+	cursor: pointer;
+}
